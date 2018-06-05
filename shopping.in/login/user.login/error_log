@@ -1,0 +1,2 @@
+[03-Nov-2016 17:05:13] PHP Warning:  unlink(../setting/images/indexbanner/komunikacja-mail.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/sssoftte/public_html/shoppingdeal.in/login/user.login/indexbanner.php on line 25
+[03-Nov-2016 17:05:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sssoftte/public_html/shoppingdeal.in/login/user.login/indexbanner.php:25) in /home/sssoftte/public_html/shoppingdeal.in/login/user.login/indexbanner.php on line 33
